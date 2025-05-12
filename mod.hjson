@@ -1,0 +1,9 @@
+name: scheme-size-lite,
+displayName: Scheme Size Lite ported,
+subtitle: Contains only CLaJ and enlarged schemas,
+description: Stripped down version of the original mod. Contains only CLaJ and enlarged schematics.,
+author: "[#0096FF]xzxADIxzx \nPort: 000sunray000",
+minGameVersion: 147,
+version: 1.4,
+hidden: true,
+main: scheme.Main
